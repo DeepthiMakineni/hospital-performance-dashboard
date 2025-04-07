@@ -1,10 +1,10 @@
-# 🏥 Hospital Performance Dashboard
+# Hospital Performance Dashboard
 
 An interactive healthcare analytics dashboard built with **Streamlit**, designed to explore and visualize patient data, medical conditions, hospital performance, and KPIs. The dashboard supports filtering, data download, and insightful visualizations to assist in hospital decision-making.
 
 ---
 
-## 📊 Features
+## Features
 
 - **KPI Metrics:** Total Patients, Average Length of Stay, Unique Conditions, Avg. Billing Amount
 - **Dynamic Filters:** Filter by gender, condition, doctor, and admission date range
